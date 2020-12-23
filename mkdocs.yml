@@ -1,7 +1,7 @@
 site_name: DJITelloPy API Reference
 site_url: "https://djitellopy.readthedocs.io/en/latest/"
-repo_url: "https://github.com/damiafuentes/DJITelloPy"
-repo_name: "damiafuentes/DJITelloPy"
+repo_url: "https://github.com/afearing/DJITelloPy"
+repo_name: "afearing/DJITelloPy"
 
 theme:
   name: "material"
